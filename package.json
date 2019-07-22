@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ednas/friend-finder.git"
+    "url": "git+https://github.com/g-uh22/Friend-Finder"
   },
   "keywords": [
     "express",
     "node"
   ],
-  "author": "Edna Jonsson",
+  "author": "Gia Robbins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ednas/friend-finder/issues"
+    "url": "https://github.com/g-uh22/friend-finder/issues"
   },
-  "homepage": "https://github.com/Ednas/friend-finder#readme"
+  "homepage": "https://github.com/g-uh22/friend-finder#readme"
 }
